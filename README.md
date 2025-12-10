@@ -570,7 +570,7 @@ mssror/
 
 ---
 
-**Date de dernière mise à jour** : Décembre 2024
+**Date de dernière mise à jour** : Décembre 2025
 
 **Version du notebook** : 1.0
 
